@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "taserutil",
+  "version": "${version}",
+  "name": "TaserUtil",
+  "description": "Vuoi sapere cosa fa la mod? Scoprilo tu stesso!",
+  "authors": ["7danyy_"],
+  "contact": {
+    "repo": "https://github.com/danii/TaserUtil"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/taserutil/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "it.s7danyy.taserutil.client.TaserUtilClient"
+    ],
+    "main": [
+      "it.s7danyy.taserutil.TaserUtil"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.24",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
