@@ -7,6 +7,8 @@ Non è consentito utilizzarla su TecnoCraft, ma è stata pensata e creata per se
 
 Con il Taser in mano, eviterai automaticamente di colpire i giocatori presenti nella tua lista amici.
 
+[ J = Apri il menù degli amici ]
+
 ⚠️ Disclaimer
 
 Mi discosto da qualsiasi utilizzo improprio di questa mod (es. utilizzo su TecnoCraft o server simili).
