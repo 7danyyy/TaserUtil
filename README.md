@@ -1,14 +1,33 @@
-This mod was developed for testing only. This mod cannot be used on TecnoCraft but is designed for that server.
-With the Taser in hand, you'll avoid tasing people on your friends list.
+**⚡ Taser Mod**
 
-I DISSOLVE ANY IMPROPER USE OF THE MOD (use on tecnocraft & similar servers).
-The responsibility for the mod lies with whoever uses it.
+This mod was created exclusively for testing purposes.
+It is not allowed to use it on TecnoCraft (or similar servers), even though it was originally designed for that environment.
+
+🔧 Features
+
+While holding the Taser, you will automatically avoid hitting players who are on your friends list.
+
+⚠️ Disclaimer
+
+I am not responsible for any improper use of this mod.
+The responsibility lies entirely with the user who decides to use it.
 
 
--------------------------------------------------------------------------------------------------------------
 
-Questa mod è stata sviluppata solo a scopo di test. Non può essere utilizzata su TecnoCraft, ma è progettata per quel server.
-Con il Taser in mano, eviterai di colpire con il taser le persone presenti nella tua lista amici.
+**----------------------------------------------------------**
 
-MI DISCOSTO DA QUALSIASI USO IMPROPRIO DELLA MOD (uso sul server TecnoCraft e simili).
-La ​​responsabilità della mod ricade su chiunque la utilizzi.
+
+
+**⚡ Taser Mod (Italiano)**
+
+Questa mod è stata sviluppata unicamente a scopo di test.
+Non è consentito utilizzarla su TecnoCraft (o server simili), anche se è stata originariamente pensata per quell’ambiente.
+
+🔧 Funzionalità
+
+Con il Taser in mano, eviterai automaticamente di colpire i giocatori presenti nella tua lista amici.
+
+⚠️ Disclaimer
+
+Mi discosto da qualsiasi utilizzo improprio di questa mod.
+La responsabilità dell’uso ricade interamente sull’utente.
