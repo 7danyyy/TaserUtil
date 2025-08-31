@@ -1,7 +1,7 @@
 **⚡ Taser Mod (Italiano)**
 
 Questa mod è stata sviluppata unicamente a scopo di test.
-Non è consentito utilizzarla su TecnoCraft, ma è stata pensata e creata per server in semi-RP o RDM.
+Non è consentito utilizzarla su TecnoCraft, ma è stata pensata e creata per server semi-RP o RDM.
 
 🔧 Funzionalità
 
